@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on developing myself and my skills
+- 🌱 I’m currently learning the basics of programming in java, python and r
+- 🤔 I’m looking for help with EVERYTHING!!! 
+- 📫 How to reach me: instagram: @joe_salah_
+- ⚡ Fun fact: I play guitar
 <!--
 **Youssefsalah4/Youssefsalah4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
